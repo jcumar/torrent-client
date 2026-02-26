@@ -1,6 +1,6 @@
 {
-  "Announce": "http://tracker.archlinux.org:6969/announce",
-  "InfoHash": [
+ "announce": "http://tracker.archlinux.org:6969/announce",
+  "info_hash": [
     222,
     232,
     106,
@@ -22,7 +22,7 @@
     132,
     61
   ],
-  "PieceHashes": [
+  "pieces": [
     [
       125,
       254,
@@ -28140,7 +28140,7 @@
       94
     ]
   ],
-  "PieceLength": 524288,
-  "Length": 670040064,
-  "Name": "archlinux-2019.12.01-x86_64.iso"
+  "piece_length": 524288,
+  "length": 670040064,
+  "name": "archlinux-2019.12.01-x86_64.iso"
 }
